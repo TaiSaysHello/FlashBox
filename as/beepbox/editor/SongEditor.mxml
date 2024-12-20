@@ -455,7 +455,7 @@ SOFTWARE.
 			<s:VGroup id="songSettings" height="100%" width="100%">
 				<s:HGroup width="100%" verticalAlign="middle">
 					<s:Spacer width="50%"/>
-					<s:Label text="BeepBox version 1.1.5" color="0xbbbbbb" right="0"/>
+					<s:Label text="FlashBox version 1.2 Beta" color="0xbbbbbb" right="0"/>
 					<s:Spacer width="50%"/>
 				</s:HGroup>
 				<s:HGroup width="100%" verticalAlign="middle">
